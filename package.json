@@ -1,0 +1,37 @@
+{
+  "name": "hotline-vice",
+  "displayName": "Hotline Vice",
+  "description": "Colour theme based on the aesthetics of neon signs, Hotline Miami, Vice City etc. 80s vibe",
+  "publisher": "BenSzabo",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b3nk3/hotline-vice-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "keywords": [
+    "Dark Theme",
+    "Theme",
+    "Neon",
+    "Hotline",
+    "Hotline Vice",
+    "Hotline Miami",
+    "Vice City"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "media/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hotline Vice",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hotline-Vice-color-theme.json"
+      }
+    ]
+  }
+}
