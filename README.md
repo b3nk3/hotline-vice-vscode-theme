@@ -1,12 +1,12 @@
-# README
+# Hotline Vice Theme
 
-![banner](./media/banner.png)
+![banner](media/banner.png)
 
 A Visual Studio Code theme for the lovers of neon and loud colours.
 
 The idea for the theme comes from my love for Hotline Miami, GTA Vice City, and the colours of neon lights.
 
-![preview screen](./media/preview.png)
+![preview screen](media/preview.png)
 
 ## Installation
 

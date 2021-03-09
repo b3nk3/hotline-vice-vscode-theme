@@ -1,15 +1,15 @@
-# Cobalt2 Theme
+# Hotline Vice Theme
 
-> A Cobalt2 theme for VS Code.
+> A Hotline Vice theme for VS Code.
 
-![Preview](images/preview.gif)
+![Preview](../media/preview.png)
 
-# Installation
+## Installation
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/)
-2. Launch Visual Studio Code
-3. Choose **Extensions** from menu
-4. Search for `vscode-theme-cobalt2`
-5. Click **Install** to install it
-6. Click **Reload** to reload the Code
-7. File > Preferences > Color Theme > **Cobalt2**
+1. Install Visual Studio Code
+1. Launch Visual Studio Code
+1. Choose Extensions from menu
+1. Search for `hotline vice`
+1. Click Install to install it
+1. Click Reload to reload the Code
+1. From the menu bar click: Code > Preferences > Color Theme > Hotline Vice
