@@ -1,4 +1,6 @@
-# Hotline Vice Theme
+# Hotline Vice - VS Code Theme
+
+![version](http://vsmarketplacebadge.apphb.com/version/benszabo.hotline-vice.svg)
 
 ![banner](media/banner.png)
 

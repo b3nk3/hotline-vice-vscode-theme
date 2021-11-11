@@ -123,7 +123,6 @@
     "list.activeSelectionBackground": "#5B5480b4",
     "list.dropBackground": "#34294f66",
     "list.errorForeground": "#FF6060E6",
-    "list.focusBackground": "#e7e7e720",
     "list.focusForeground": "#e7e7e7",
     "list.highlightForeground": "#F972C5",
     "list.hoverBackground": "#5b548075",
