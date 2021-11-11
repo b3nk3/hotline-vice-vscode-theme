@@ -10,7 +10,7 @@
     "url": "https://github.com/b3nk3/hotline-vice-vscode-theme"
   },
   "engines": {
-    "vscode": "^1.53.0"
+    "vscode": "^1.62.0"
   },
   "keywords": [
     "Dark Theme",
