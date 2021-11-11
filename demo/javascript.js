@@ -27,3 +27,5 @@ console.log(ben.doesNotExist);
 
 const usedAge = 200;
 console.log(usedAge);
+
+unreachableCode();
