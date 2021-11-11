@@ -1,6 +1,6 @@
 # Hotline Vice - VS Code Theme
 
-![version](http://vsmarketplacebadge.apphb.com/version/benszabo.hotline-vice.svg)
+![version](https://vsmarketplacebadge.apphb.com/version/benszabo.hotline-vice.svg)
 
 ![banner](media/banner.png)
 
@@ -32,6 +32,6 @@ I haven't tested for A11Y but I welcome suggestions that can enable more people 
 
 The colour base for the theme was inspired by Robb Owen's [Synthwave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
 
-I also pinched the demo folder from [Wes Bos](http://twitter.com/wesbos)'s [Cobalt 2 theme](https://github.com/wesbos/cobalt2-vscode), that has been a great help for tokenization.
+I also pinched the demo folder from [Wes Bos](https://twitter.com/wesbos)'s [Cobalt 2 theme](https://github.com/wesbos/cobalt2-vscode), that has been a great help for tokenization.
 
 Lastly, thanks to [Sarah Drasner](https://twitter.com/sarah_edo) for her great [article](https://css-tricks.com/creating-a-vs-code-theme/).
