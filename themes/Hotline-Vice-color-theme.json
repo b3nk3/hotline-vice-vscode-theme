@@ -126,13 +126,13 @@
     "list.focusBackground": "#e7e7e720",
     "list.focusForeground": "#e7e7e7",
     "list.highlightForeground": "#F972C5",
-    "list.hoverBackground": "#37294d99",
+    "list.hoverBackground": "#5b548075",
     "list.hoverForeground": "#e7e7e7",
     "list.inactiveFocusBackground": "#2a213999",
-    "list.inactiveSelectionBackground": "#37294d99",
+    "list.inactiveSelectionBackground": "#5b548075",
     "list.inactiveSelectionForeground": "#e7e7e7",
     "list.warningForeground": "#3DC6AFbb",
-    "quickInput.list.focusBackground": "#5B5480b4",
+    "quickInputList.focusBackground": "#5B5480b4",
     //
     "menu.background": "#6d648a",
     //
